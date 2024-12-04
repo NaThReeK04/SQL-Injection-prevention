@@ -8,7 +8,6 @@
 
 Demonstrates SQL injection attacks using malicious SQL queries and SQL prevention techniques.
 
-[Deployed project link](https://sql-injection-and-prevention.herokuapp.com/)
 
 ---
 
